@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9337642b6c34f11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "23aaf6d3599d312b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79e5a72553cf4f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6c7f67b231b0b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dfa536b04fc71ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87409e6bdc33e1ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9dae302af301d1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efba75c3640724eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "99687723b3c2d61e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5fbeab7cb933a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "433950492cb06db3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d8163aaef9498f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fc6474027353e25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0ef14dacccdfc96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FreeCodeCamp/YouTube/SQL Database Course.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79e5a72553cf4f5e",
+  "lastOpenFiles": [
+    "FreeCodeCamp/FreeCodeCamp contents.md",
+    "FreeCodeCamp/YouTube/SQL Database Course.md",
+    "Novels/Atomic Habits.md",
+    "FreeCodeCamp/YouTube",
+    "999 Index/Tutorials.md",
+    "FreeCodeCamp",
+    "Courses",
+    "999 Index/Novels.md",
+    "freeCodeCamp/freeCodeCamp.md",
+    "freeCodeCamp",
+    "README.md",
+    "Daily Notes/07-11-2023.md",
+    "atomicHabits.md",
+    "999 Templates/Course Note Template.md",
+    "999 Templates/Novels Template.md",
+    "999 Index",
+    "Novels",
+    "Course Notes",
+    "999 Templates/Daily Note Template.md",
+    "Daily Notes/Untitled.md",
+    "Daily Notes",
+    "Daily Note Template.md",
+    "999 Templates"
+  ]
+}
