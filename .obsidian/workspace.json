@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "23aaf6d3599d312b",
+        "id": "165a2db48ba239f3",
         "type": "tabs",
         "children": [
           {
-            "id": "79e5a72553cf4f5e",
+            "id": "a2fde67ebb7ab981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
-                "mode": "preview"
+                "file": "Daily Notes/05-02-2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "right": {
     "id": "99687723b3c2d61e",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
+                "file": "Daily Notes/05-02-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FreeCodeCamp/YouTube/SQL Database Course.md",
+                "file": "Daily Notes/05-02-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FreeCodeCamp/YouTube/SQL Database Course.md"
+                "file": "Daily Notes/05-02-2024.md"
               }
             }
           }
@@ -145,30 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79e5a72553cf4f5e",
+  "active": "a2fde67ebb7ab981",
   "lastOpenFiles": [
-    "FreeCodeCamp/FreeCodeCamp contents.md",
-    "FreeCodeCamp/YouTube/SQL Database Course.md",
-    "Novels/Atomic Habits.md",
-    "FreeCodeCamp/YouTube",
-    "999 Index/Tutorials.md",
-    "FreeCodeCamp",
-    "Courses",
+    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship-Prentice Hall (2008).pdf",
+    "Daily Notes/05-02-2024.md",
+    "Daily Notes/17-01-2024.md",
     "999 Index/Novels.md",
-    "freeCodeCamp/freeCodeCamp.md",
-    "freeCodeCamp",
-    "README.md",
+    "999 Books/Self Help",
+    "999 Books/Novels",
+    "999 Books/Career",
+    "999 Books",
+    "Daily Notes/16-01-2024.md",
+    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
+    "Daily Notes/29-12-2023.md",
+    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
+    "999 Index/Tutorials.md",
+    "Novels/Atomic Habits.md",
+    "Daily Notes/01-12-2023.md",
+    "Daily Notes/08-11-2023.md",
     "Daily Notes/07-11-2023.md",
+    "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
+    "Courses/Office SG/Office SG Contents.md",
+    "Courses/Office SG/My Learning/Untitled",
+    "Courses/Office SG/My Learning",
+    "Courses/Office SG/Cloud Platform Professional Services",
+    "Courses/Office SG",
+    "Courses/FreeCodeCamp/YouTube",
+    "freeCodeCamp/freeCodeCamp.md",
+    "README.md",
     "atomicHabits.md",
     "999 Templates/Course Note Template.md",
     "999 Templates/Novels Template.md",
-    "999 Index",
-    "Novels",
-    "Course Notes",
     "999 Templates/Daily Note Template.md",
     "Daily Notes/Untitled.md",
-    "Daily Notes",
-    "Daily Note Template.md",
-    "999 Templates"
+    "Daily Note Template.md"
   ]
 }

@@ -6,7 +6,7 @@ Please find all the documentations available:
 
   
 
-* [FreeCodeCamp](freeCodeCamp/freeCodeCamp.md)
+* [FreeCodeCamp](obsidian://open?vault=Viper_Obsidian&file=FreeCodeCamp%2FFreeCodeCamp%20contents)
 
 * [NPTEL](nptel/nptel.md)
 
