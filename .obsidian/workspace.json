@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
-                "mode": "source",
+                "file": "Courses/Office SG/Office SG Contents.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
+                "file": "Courses/Office SG/Office SG Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
+                "file": "Courses/Office SG/Office SG Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md"
+                "file": "Courses/Office SG/Office SG Contents.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "a2fde67ebb7ab981",
   "lastOpenFiles": [
     "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
+    "Courses/Office SG/Office SG Contents.md",
+    "Courses/Office SG/My Learning/CSR - History, Standards and Opportunities.md",
+    "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
     "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java-CareerMonk.com (2017).pdf",
     "Daily Notes/06-02-2024.md",
@@ -169,8 +172,6 @@
     "Daily Notes/01-12-2023.md",
     "Daily Notes/08-11-2023.md",
     "Daily Notes/07-11-2023.md",
-    "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
-    "Courses/Office SG/Office SG Contents.md",
     "Courses/Office SG/My Learning/Untitled",
     "Courses/Office SG/My Learning",
     "freeCodeCamp/freeCodeCamp.md",

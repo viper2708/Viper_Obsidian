@@ -35,9 +35,9 @@ This documentation contains the links to Office course.
 			*   [Cloud Native Architecture Patterns](cloudPlatformProfessionalServices/advanced/dataPersistenceInCloudPlatform/cloudNativeArchitecturesPatterns.md)
 
 *   My Learning
-	*   [Basics of Level 1 Permanent Control](obsidian://open?vault=Viper_Obsidian&file=Courses%2FOffice%20SG%2FMy%20Learning%2FBasics%20of%20Permanent%20Level%201%20Control)
+	*   [[Basics of Permanent Level 1 Control]]
 	*   [Sustainable IT Awareness](myLearning/sustainableITAwareness.md)
 	*   [Protection Against Corruption](myLearning/fightAgainstCorruption.md)
 	*   [Protection of Personal Data](myLearning/protectionOfPersonalData.md)
 	*   [Prevention of Sexual Harassment](myLearning/preventionOfSexualHarassment.md)
-	*   [CSR: History, Standards and Opportunities](myLearning/csrHistoryStandardsOpportunities.md)
+	*   [[CSR - History, Standards and Opportunities]]
