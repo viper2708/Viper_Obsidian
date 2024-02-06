@@ -38,6 +38,6 @@ This documentation contains the links to Office course.
 	*   [[Basics of Permanent Level 1 Control]]
 	*   [Sustainable IT Awareness](myLearning/sustainableITAwareness.md)
 	*   [[Fight Against Corruption]]
-	*   [Protection of Personal Data](myLearning/protectionOfPersonalData.md)
+	*   [[Protection of Personal Data]]
 	*   [[Prevention of Sexual Harassment]]
 	*   [[CSR - History, Standards and Opportunities]]
