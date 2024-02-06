@@ -39,5 +39,5 @@ This documentation contains the links to Office course.
 	*   [Sustainable IT Awareness](myLearning/sustainableITAwareness.md)
 	*   [[Fight Against Corruption]]
 	*   [Protection of Personal Data](myLearning/protectionOfPersonalData.md)
-	*   [Prevention of Sexual Harassment](myLearning/preventionOfSexualHarassment.md)
+	*   [[Prevention of Sexual Harassment]]
 	*   [[CSR - History, Standards and Opportunities]]
