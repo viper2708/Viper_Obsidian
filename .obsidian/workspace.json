@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/06-02-2024.md",
+                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/06-02-2024.md",
+                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/06-02-2024.md",
+                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/06-02-2024.md"
+                "file": "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87409e6bdc33e1ba",
+  "active": "a2fde67ebb7ab981",
   "lastOpenFiles": [
+    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
+    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java-CareerMonk.com (2017).pdf",
+    "Daily Notes/06-02-2024.md",
     "999 Books/Career/Algorithms",
     "999 Books/Career/New folder",
     "Daily Notes/05-02-2024.md",
-    "Daily Notes/06-02-2024.md",
     "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship-Prentice Hall (2008).pdf",
     "Daily Notes/17-01-2024.md",
     "999 Index/Novels.md",
@@ -161,9 +163,7 @@
     "999 Books/Career",
     "999 Books",
     "Daily Notes/16-01-2024.md",
-    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "Daily Notes/29-12-2023.md",
-    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
     "999 Index/Tutorials.md",
     "Novels/Atomic Habits.md",
     "Daily Notes/01-12-2023.md",
@@ -173,7 +173,6 @@
     "Courses/Office SG/Office SG Contents.md",
     "Courses/Office SG/My Learning/Untitled",
     "Courses/Office SG/My Learning",
-    "Courses/Office SG/Cloud Platform Professional Services",
     "freeCodeCamp/freeCodeCamp.md",
     "README.md",
     "atomicHabits.md",

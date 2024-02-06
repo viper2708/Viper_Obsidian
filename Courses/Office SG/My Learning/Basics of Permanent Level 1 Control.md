@@ -104,7 +104,7 @@
 * Blueprint : general principles
 	* The implementation of the APRC approach, for each entity of the Group included in the deployment scope, and at the appropriate level of detail, is done through a 'Blueprint'. Let's see what it consists of:
 		* The blueprint is the instrument for selecting the content of the activities and processes in the area of responsibility
-		* The blueprint is the "golden source" to be used when organising and performing exercises related to the control of non-financial risks (implementation of the APRC approach, risk management [RCSA, COMPASS, etc.], collection of losses and incidents, etc.)
+		* The blueprint is the "golden source" to be used when organizing and performing exercises related to the control of non-financial risks (implementation of the APRC approach, risk management (RCSA, COMPASS, etc.), collection of losses and incidents, etc.)
 		* Based on the selected activities and processes, the blueprint inherits a level 1 control plan. The control plan makes it possible to determine the control needs applicable to the scope of responsibility, for the control of non-financial risks
 
 * Control Plan : General principles
@@ -221,182 +221,91 @@
 		* The objective of anomaly detection is to be able to make the necessary corrections to prevent recurrence and to ensure that action plans are drawn up
 		* It is essential to declare L1C anomalies (including those corrected before the control is finalized) and describe them in detail, so that their impact is clearly explained
 
-        * All this information allows the launch of action plans whose objective is the correction of anomalies and the improvement of processes. The criticality of anomalies must be defined in accordance with Group rules to allow for a uniform analysis of process dysfunctions throughout the Group
-
-        * As a reminder, the Group has adopted a four-level scale for rating level 1 control anomalies:
-
-            * "Very high" : Risk for the Societe Generale Group
-
-            * "High" : Risk for a BU/SU
-
-            * "Moderate" : Risk for an entity or several departments
-
-            * "Low" : Risk for a department
-
+* All this information allows the launch of action plans whose objective is the correction of anomalies and the improvement of processes. The criticality of anomalies must be defined in accordance with Group rules to allow for a uniform analysis of process dysfunctions throughout the Group
+	* As a reminder, the Group has adopted a four-level scale for rating level 1 control anomalies:
+		* "Very high" : Risk for the Societe Generale Group
+	       * "High" : Risk for a BU/SU
+	       * "Moderate" : Risk for an entity or several departments
+		* "Low" : Risk for a department
         * High and very high criticality anomalies must be subject to an action plan and followed up by General Management
 
-  
-
 * Formalization of execution
-
-    * Next comes traceability, with the formalization of execution in the Group's tools
-
-        * The execution of a control must be captured in the central systems (Group datalake) to indicate that the planned risk control framework is in place and functioning
-
-        * Furthermore, it must be possible to link this execution to a blueprint and therefore to the APRC referentiel
-
-  
+	* Next comes traceability, with the formalization of execution in the Group's tools
+	* The execution of a control must be captured in the central systems (Group datalake) to indicate that the planned risk control framework is in place and functioning
+	* Furthermore, it must be possible to link this execution to a blueprint and therefore to the APRC referentiel
 
 * Auditability
-
-    * Finally, we conclude out presentation of the main principles of control implementation with auditability
-
-        * Formalization of the execution (operating procedure, results) is mandatory
-
-        * All of this information must be traceable, auditable and accessible to the Audit/Inspection, level 2 control teams, and DGLE/PIC, as well as to supervisory authorities
-
-        * These elements must be kept for a minimum of five years, unless otherwise specified
-
-            * By complying with local regulations imposed by the regulator (eg., FATCA regulations require a minimum retention period of 6 years)
-
-            * If specific recommendations have been issued in this regard by the General Inspection and Audit Department
-
-  
+	* Finally, we conclude out presentation of the main principles of control implementation with auditability
+	* Formalization of the execution (operating procedure, results) is mandatory
+	* All of this information must be traceable, auditable and accessible to the Audit/Inspection, level 2 control teams, and DGLE/PIC, as well as to supervisory authorities
+	* These elements must be kept for a minimum of five years, unless otherwise specified
+		* By complying with local regulations imposed by the regulator (eg., FATCA regulations require a minimum retention period of 6 years)
+		* If specific recommendations have been issued in this regard by the General Inspection and Audit Department
 
 * Chapter summary
-
-    * In this section, we have discussed the general principles as well as the details of each approach : compliance with procedures, reporting of anomalies and action plans, formalization of execution and audutability
-
-        * In respecting procedures, particular attention must be paid to sampling, which must therefore respect certain principles : responsibility, methods, freedom of choice
-
-        * There are two general approaches to sampling : discretionary and random
-
-        * The performer of the control retains his free will and can decide to carry out exhaustive reviews when the level of risk requires it, even if the control procedure authorizes the control based on a sample
-
-        * An anomaly is an error detected or a difference between an expected result and a result obtained during the performance of a control. As such, a L1Cs anomaly can correspond to dysfunctions with proven losses, dysfunctions with proven impacts, dysfunctions detected without materialization of the risk
-
-        * For all significant anomalies detected, it is essential to define and implement an actio plan to ensure that the dysfunction does not recur,these plans also contribute the continuous improvement of our processes
-
-        * Anomalies, and more particularly high and very high criticality anomalies, must be described in detail in order to clearly explain the impact and the stakes
-
-  
-
-## Monitoring permament control
-
-  
+	* In this section, we have discussed the general principles as well as the details of each approach : compliance with procedures, reporting of anomalies and action plans, formalization of execution and auditability
+	* In respecting procedures, particular attention must be paid to sampling, which must therefore respect certain principles : responsibility, methods, freedom of choice
+	* There are two general approaches to sampling : discretionary and random
+	* The performer of the control retains his free will and can decide to carry out exhaustive reviews when the level of risk requires it, even if the control procedure authorizes the control based on a sample
+	* An anomaly is an error detected or a difference between an expected result and a result obtained during the performance of a control. As such, a L1Cs anomaly can correspond to dysfunctions with proven losses, dysfunctions with proven impacts, dysfunctions detected without materialization of the risk
+	* For all significant anomalies detected, it is essential to define and implement an action plan to ensure that the dysfunction does not recur, these plans also contribute the continuous improvement of our processes
+	* Anomalies, and more particularly high and very high criticality anomalies, must be described in detail in order to clearly explain the impact and the stakes
+## Monitoring permanent control
 
 * Principle of reporting
-
-    * As we saw in the introduction, the entire permanent control framework must be monitored by means of reports so that management can ensure that activities are carried out in accordance with the strategy and risk appetite defined by the Group. On this basis, management should be able to take remedial action if necessary. Lets look at their principles and how these reports are set up
-
-        * The objective of permanent control reporting is to capture the results of controls at the finest level, by cross-referencing them with the elements of the non-financial risk management framework, in order to detect significant areas af risk and possible remedial or corrective actions, to summarize them and to inform management and the supervisory bodies
-
-  
+	* As we saw in the introduction, the entire permanent control framework must be monitored by means of reports so that management can ensure that activities are carried out in accordance with the strategy and risk appetite defined by the Group. On this basis, management should be able to take remedial action if necessary. Lets look at their principles and how these reports are set up
+	* The objective of permanent control reporting is to capture the results of controls at the finest level, by cross-referencing them with the elements of the non-financial risk management framework, in order to detect significant areas at risk and possible remedial or corrective actions, to summarize them and to inform management and the supervisory bodies
 
 * Reporting methodology
-
-    * The reporting is done according to a specific methology which we will see in detail
-
-        * Manager, staff
-
-            * Analysis level 1
-
-                * Performing level 1 control - Daily risk management : Control rating, creation of anomalies, of action plans
-
-                    * The level 1 controls that are correctly deplyed and carried out daily throughout the Group make it possible to protect the bank day-to-day and thus to detect and prevent risks
-
-                    * The formalization of these controls allows their analysis at the following levels of analysis
-
-        * CORO, ORM, RCL1C
-
-            * Analysis level 2
-
-                * Daily analysis by the operational risk management teams using the KRI and business intelligence tools provided
-
-                    * The data relating to the results of these controls are stored in the datalake. This data can then be used daily by everyone to perform the necessary reports and analyses
-
-                    * These analyses are carried out by the operational risk management teams who manage the framework daily
-
-        * BU/SU managers
-
-            * Analysis level 3
-
-                * Level 1 permanent control certification by the BU/SU managers to the General Management
-
-                    * The deployment of level 1 controls, the results of their execution, as well as the analyses made of them, are brought to the attention of the BU/SU management. With the support of the CORO, the BU/SU manager is informed of, analyses, and certifies the results of the execution of the L1Cs in his or her area of supervision. The certification of level 1 control results by management is a quaterly exercise
-
-                    * A dashboard is then compiled and challenged every six months by the BU/SU manager at the BU/SU Internal Control Coordination Committee
-
-        * DGLE
-
-            * Analysis level 4
-
-                * Permanent control dashboard. Presentation of the status of the framework to the Group Internal Control Coordination Committee, General Management and the CACI
-
-                    * The elements of L1Cs certification are integrated into the Group's permament control dashboard which compares them with the other non-financial risk management frameworks : the RCSA, losses and incidents, the results of L2C and IGAD missions, etc., in order to detect the priority areas for improvement of the framework, as part of a continuous improvement process. This exercise is also carried out quaterly
-
-                    * This dashboard is presented to General Management at the Group Internal Control Coordination Committee meeting, to enable monitoring of the framework and supervision of the Group's internal control. After review and validation, the dashboard is then presented to the Audit and Internal Control Committee
-
-        * DGLE to CACI and ACPR
-
-            * Analysis level 5
-
-                * Report on Internal Control (RCI) to be reviewed by the GICCC, validated by the General Management, presented to the CACI and the Board of Directors, and communicated to the ACPR and the ECB
-
-                    * Finally, the Group produces an annual consolidated report on internal control, known as the RCI. This document presents a transversal analysis (by the experts of LOD1 and LOD2) of all types of risks by comparing the various elements of the framework : losses, incidents, controls, RCSA, etc. It also includes the main results of the missions carried out by LOD3
-
-                    * This report is presented to the CACI (Audit and Internal Control Committee) after neing examined and validated by General Management during the GICCC. It is also sent to the Group's supervisory authorities (ACPR and ECB)
-
-    * Each of the reporting stages described earlier makes possible to assess the internal control framework and to decide on actions to improve this framework to enhance risk management. The formalization of the results of level 1 controls is therefore a key step in the process of continuous improvement of the Group's permanent control framework and allows transparent information to be transmitted to all levels of management, including the General Management and the Board of Directors
-
-  
+	* The reporting is done according to a specific methodology which we will see in detail
+		* Manager, staff
+			* Analysis level 1
+				* Performing level 1 control - Daily risk management : Control rating, creation of anomalies, of action plans
+					* The level 1 controls that are correctly deployed and carried out daily throughout the Group make it possible to protect the bank day-to-day and thus to detect and prevent risks
+					* The formalization of these controls allows their analysis at the following levels of analysis
+		* CORO, ORM, RCL1C
+			* Analysis level 2
+				* Daily analysis by the operational risk management teams using the KRI and business intelligence tools provided
+					* The data relating to the results of these controls are stored in the datalake. This data can then be used daily by everyone to perform the necessary reports and analyses
+					* These analyses are carried out by the operational risk management teams who manage the framework daily
+		* BU/SU managers
+			* Analysis level 3
+				* Level 1 permanent control certification by the BU/SU managers to the General Management
+					* The deployment of level 1 controls, the results of their execution, as well as the analyses made of them, are brought to the attention of the BU/SU management. With the support of the CORO, the BU/SU manager is informed of, analyses, and certifies the results of the execution of the L1Cs in his or her area of supervision. The certification of level 1 control results by management is a quarterly exercise
+					* A dashboard is then compiled and challenged every six months by the BU/SU manager at the BU/SU Internal Control Coordination Committee
+		* DGLE
+			* Analysis level 4
+				* Permanent control dashboard. Presentation of the status of the framework to the Group Internal Control Coordination Committee, General Management and the CACI
+					* The elements of L1Cs certification are integrated into the Group's permanent control dashboard which compares them with the other non-financial risk management frameworks : the RCSA, losses and incidents, the results of L2C and IGAD missions, etc., in order to detect the priority areas for improvement of the framework, as part of a continuous improvement process. This exercise is also carried out quarterly
+					* This dashboard is presented to General Management at the Group Internal Control Coordination Committee meeting, to enable monitoring of the framework and supervision of the Group's internal control. After review and validation, the dashboard is then presented to the Audit and Internal Control Committee
+		* DGLE to CACI and ACPR
+			* Analysis level 5
+				* Report on Internal Control (RCI) to be reviewed by the GICCC, validated by the General Management, presented to the CACI and the Board of Directors, and communicated to the ACPR and the ECB
+					* Finally, the Group produces an annual consolidated report on internal control, known as the RCI. This document presents a transversal analysis (by the experts of LOD1 and LOD2) of all types of risks by comparing the various elements of the framework : losses, incidents, controls, RCSA, etc. It also includes the main results of the missions carried out by LOD3
+					* This report is presented to the CACI (Audit and Internal Control Committee) after being examined and validated by General Management during the GICCC. It is also sent to the Group's supervisory authorities (ACPR and ECB)
+	* Each of the reporting stages described earlier makes possible to assess the internal control framework and to decide on actions to improve this framework to enhance risk management. The formalization of the results of level 1 controls is therefore a key step in the process of continuous improvement of the Group's permanent control framework and allows transparent information to be transmitted to all levels of management, including the General Management and the Board of Directors
 
 * Chapter summary
-
-    * In this section, we have discussed the monitoring of permament control
-
-        * The permanent control monitoring system enables Management to ensure that activities are carried out in accordance with the strategy and risk appetite. It enables it to decide on remedial actions and to exercise its supervision of internal control.
-
-        * Permanent control reporting makes it possible to capture control results at the finest level, by cross-referencing them with the elements of the non-financial risk management system, in order to detect significant areas of risk and the actions to be taken to effectively contain these risks at the accepted level
-
-        * The formalization and certification of the results of the execution of level 1 controls is one of the key stages in the process of continuous improvement of the Group's permanent control system,; it makes possible to transmit transparent information to all levels of management and to the supervisory authorities
-
-  
-
-## Continuous improvement if the permament control framework
-
-  
+	* In this section, we have discussed the monitoring of permanent control
+		* The permanent control monitoring system enables Management to ensure that activities are carried out in accordance with the strategy and risk appetite. It enables it to decide on remedial actions and to exercise its supervision of internal control.
+		* Permanent control reporting makes it possible to capture control results at the finest level, by cross-referencing them with the elements of the non-financial risk management system, in order to detect significant areas of risk and the actions to be taken to effectively contain these risks at the accepted level
+		* The formalization and certification of the results of the execution of level 1 controls is one of the key stages in the process of continuous improvement of the Group's permanent control system,; it makes possible to transmit transparent information to all levels of management and to the supervisory authorities
+## Continuous improvement if the permanent control framework
 
 * Continuous improvement loop and articulation with losses/incidents and RCSA
-
-    * The permament control framework operates in an iterative way. Each component of the framework is fed by the other components, in a continuous improvement logic, so that the framework is agile and adaptable to the evolving risk profile faced by the Group
-
-        * The level 1 control framework is embedded in the non-financial risk management system and contributes to containing risks at the level accepted in the Group's risk appetite. The dynamics of continuous improvement therefore comes from you because permanent control is everyone's responsibility
-
-        * Anomalies can be detected at all levels, operational, managers, level 2 controller, LOD2 expert, periodic controller (IGAD) or supervisory authority
-
-        * All anomalies detected (a process failure, a significant loss, etc.) must be the subject of an action plan to ensure that the dysfunction does not repeat itself. At least for significant anomalies, a follow-up of the action plan is compulsory in a dedicated permament control tool
-
-        * If deemed necessary, the action plan defined may be extended to other entites to ensure that the anomaly does not occur elsewhere in the Group. The permament control framework is deployed throughout the Group (subsidiaries and branches as well as the various organizational structures existing within the scope, such as joint ventures)
-
-        * If significant anomalies are detected, the stakeholders in the permament control framework must react. Improvement actions to enhance the framework can be taken at several levels:
-
-            * At the General Management level, which will identify actions based on the visibility given to the framework by the permanent control dashboard to ensure compliance with the risk appetite defined by the Group
-
-            * AT BU/SU management level, the manager assesses his or her level of residual risk based on "Risk and Control Self Assessment" (RCSA) or Compass, the results of L1Cs, incidents and losses, audit reports and the existing L1C framework
-
-            * At your level : through the implementation of procedures, recommendations issued by your management, level 2 control, periodic control (IGAD), supervisory authorities
-
-  
+	* The permanent control framework operates in an iterative way. Each component of the framework is fed by the other components, in a continuous improvement logic, so that the framework is agile and adaptable to the evolving risk profile faced by the Group
+		* The level 1 control framework is embedded in the non-financial risk management system and contributes to containing risks at the level accepted in the Group's risk appetite. The dynamics of continuous improvement therefore comes from you because permanent control is everyone's responsibility
+		* Anomalies can be detected at all levels, operational, managers, level 2 controller, LOD2 expert, periodic controller (IGAD) or supervisory authority
+		* All anomalies detected (a process failure, a significant loss, etc.) must be the subject of an action plan to ensure that the dysfunction does not repeat itself. At least for significant anomalies, a follow-up of the action plan is compulsory in a dedicated permanent control tool
+		* If deemed necessary, the action plan defined may be extended to other entities to ensure that the anomaly does not occur elsewhere in the Group. The permanent control framework is deployed throughout the Group (subsidiaries and branches as well as the various organizational structures existing within the scope, such as joint ventures)
+		* If significant anomalies are detected, the stakeholders in the permanent control framework must react. Improvement actions to enhance the framework can be taken at several levels:
+			* At the General Management level, which will identify actions based on the visibility given to the framework by the permanent control dashboard to ensure compliance with the risk appetite defined by the Group
+			* AT BU/SU management level, the manager assesses his or her level of residual risk based on "Risk and Control Self Assessment" (RCSA) or Compass, the results of L1Cs, incidents and losses, audit reports and the existing L1C framework
+			* At your level : through the implementation of procedures, recommendations issued by your management, level 2 control, periodic control (IGAD), supervisory authorities
 
 * Chapter summary
-
-    * In this section, we have discussed the continuous improvement loop:
-
-        * The permanent control framework must be deployed throughout the Societe Generale Group, i.e., all consolidated subsidiaries and branches, as well as the various organizational structures existing within this scope, such as joint ventures
-
-        * The permanent control framework operates in an iterative way, as part of a continuous improvement process
-
-        * All anomalies detected (a process failure, a significant loss, etc.) must be the subject of an action plan to ensure that the dysfunction does not occur
-
-        * The residual risk remaining after the implementation of the permanent control framework must be compliant with the guidelines laid down by the Group's risk appetite
+	* In this section, we have discussed the continuous improvement loop:
+		* The permanent control framework must be deployed throughout the Societe Generale Group, i.e., all consolidated subsidiaries and branches, as well as the various organizational structures existing within this scope, such as joint ventures
+		* The permanent control framework operates in an iterative way, as part of a continuous improvement process
+		* All anomalies detected (a process failure, a significant loss, etc.) must be the subject of an action plan to ensure that the dysfunction does not occur
+		* The residual risk remaining after the implementation of the permanent control framework must be compliant with the guidelines laid down by the Group's risk appetite
