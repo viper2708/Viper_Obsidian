@@ -36,7 +36,7 @@ This documentation contains the links to Office course.
 
 *   My Learning
 	*   [[Basics of Permanent Level 1 Control]]
-	*   [Sustainable IT Awareness](myLearning/sustainableITAwareness.md)
+	*   [[Sustainable IT Awareness]]
 	*   [[Fight Against Corruption]]
 	*   [[Protection of Personal Data]]
 	*   [[Prevention of Sexual Harassment]]

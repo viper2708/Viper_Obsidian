@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "165a2db48ba239f3",
+        "id": "6903205b3ec8b6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a2fde67ebb7ab981",
+            "id": "2786ddc33952c7dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Office SG/Office SG Contents.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c821a0f127d58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Office SG/My Learning/Protection of Personal Data.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "99687723b3c2d61e",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Office SG/Office SG Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Office SG/Office SG Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/Office SG/Office SG Contents.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2fde67ebb7ab981",
+  "active": "2786ddc33952c7dd",
   "lastOpenFiles": [
-    "Courses/Office SG/My Learning/Protection of Personal Data.md",
+    "Courses/Office SG/My Learning/Sustainable IT Awareness.md",
     "Courses/Office SG/Office SG Contents.md",
+    "Daily Notes/06-02-2024.md",
+    "Novels/Atomic Habits.md",
+    "Daily Notes/07-02-2024.md",
+    "Courses/Office SG/My Learning/Protection of Personal Data.md",
     "Courses/Office SG/My Learning/Prevention of Sexual Harassment.md",
     "Courses/Office SG/My Learning/Fight Against Corruption.md",
     "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
@@ -173,7 +156,6 @@
     "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
     "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java-CareerMonk.com (2017).pdf",
-    "Daily Notes/06-02-2024.md",
     "999 Books/Career/Algorithms",
     "999 Books/Career/New folder",
     "Daily Notes/05-02-2024.md",
@@ -186,7 +168,6 @@
     "Daily Notes/16-01-2024.md",
     "Daily Notes/29-12-2023.md",
     "999 Index/Tutorials.md",
-    "Novels/Atomic Habits.md",
     "Daily Notes/01-12-2023.md",
     "Daily Notes/08-11-2023.md",
     "Daily Notes/07-11-2023.md",
@@ -194,8 +175,6 @@
     "README.md",
     "atomicHabits.md",
     "999 Templates/Course Note Template.md",
-    "999 Templates/Novels Template.md",
-    "999 Templates/Daily Note Template.md",
-    "Daily Notes/Untitled.md"
+    "999 Templates/Novels Template.md"
   ]
 }
