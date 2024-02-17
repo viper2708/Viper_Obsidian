@@ -8,31 +8,30 @@ This documentation contains the links to Office course.
 
 *  Cloud Platform Professional Services
 	*   Beginner
-		*   [Go to Cloud Platform](cloudPlatformProfessionalServices/beginner/goToCloudPlatform.md)
-		*   [GTS 2020 Cloud Strategy](cloudPlatformProfessionalServices/beginner/gts2020CloudStrategy.md)
-		*   [Processes and Operations in SG Cloud Platform](cloudPlatformProfessionalServices/beginner/processesAndOperationsInSG.md)
+		*   [[Go to Cloud Platform]]
+		*   [[Processes and Operations in SG Cloud Platform]]
 	*   Intermediate
 		*   Cloud Platform Delivery
-			*   [Deep Dive into Service Catalog](cloudPlatformProfessionalServices/intermediate/cloudPlatformDelivery/deepDiveIntoServiceCatalog.md)
-			*   [DoItNow Services](cloudPlatformProfessionalServices/intermediate/cloudPlatformDelivery/doItNowService.md)
+			*   [[Deep Dive into Service Catalog]]
+			*   [[DoItNow Services]]
 		*   Cloud Platform Use
-			*   [Cloud Native Architecture](cloudPlatformProfessionalServices/intermediate/cloudPlatformUse/cloudNativeArchitecture.md)
-			*   [Introduction to Cloud Architecture](cloudPlatformProfessionalServices/intermediate/cloudPlatformUse/introductionToCloudArchitecture.md)
+			*   [[Cloud Native Architecture]]
+			*   [[Introduction to Cloud Architecture]]
 		*   Core Services Discovery
-			*   [Block Storage Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/blockStorageService.md)
-			*   [Certificate Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/certificateService.md)
-			*   [Cloud Orchestration Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/cloudOrchestrationService.md)
-			*   [Cloud Platform Compute Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/cloudPlatformComputeService.md)
-			*   [File Storage Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/fileStorageService.md)
-			*   [IAM Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/IAMService.md)
-			*   [IPAM-DNS Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/IPAM_DNSService.md)
-			*   [OS Factory Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/OSFactoryService.md)
-			*   [OS Configuration Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/OSConfigurationService.md)
-			*   [Object Storage Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/objectStorageService.md)
-			*   [Security Group Service](cloudPlatformProfessionalServices/intermediate/coreServicesDiscovery/securityGroupService.md)
+			*   [[Block Storage Service]]
+			*   [[Certificate Service]]
+			*   [[Cloud Orchestration Service]]
+			*   [[Cloud Platform Compute Service]]
+			*   [[File Storage Service]]
+			*   [[IAM Service]]
+			*   [[IPAM-DNS Service]]
+			*   [[OS Factory Service]]
+			*   [[OS Configuration Service]]
+			*   [[Object Storage Service]]
+			*   [[Security Group Service]]
 	*   Advanced
 		*   Data Persistence in Cloud Platform
-			*   [Cloud Native Architecture Patterns](cloudPlatformProfessionalServices/advanced/dataPersistenceInCloudPlatform/cloudNativeArchitecturesPatterns.md)
+			*   [[Cloud Native Architecture Patterns]]
 
 *   My Learning
 	*   [[Basics of Permanent Level 1 Control]]

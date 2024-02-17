@@ -1,15 +1,7 @@
 Please find all the documentations available:
+## Documentation categories
 
-  
-
-## Documentaion categories
-
-  
-
-* [FreeCodeCamp](obsidian://open?vault=Viper_Obsidian&file=FreeCodeCamp%2FFreeCodeCamp%20contents)
-
+* [[FreeCodeCamp contents]]
 * [NPTEL](nptel/nptel.md)
-
-* [Office](office/office.md)
-
+* [[Office SG Contents]]
 * [PluralSight](pluralsight/pluralsight.md)

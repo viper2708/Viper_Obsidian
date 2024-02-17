@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6903205b3ec8b6f0",
+        "id": "b6cc74c4b2afd0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "2786ddc33952c7dd",
+            "id": "63be86ab3136c866",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/PluralSight/PluralSight courses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/PluralSight/PluralSight courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/PluralSight/PluralSight courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/PluralSight/PluralSight courses.md"
+              }
             }
           }
         ]
@@ -135,46 +143,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2786ddc33952c7dd",
+  "active": "63be86ab3136c866",
   "lastOpenFiles": [
-    "Courses/Office SG/My Learning/Sustainable IT Awareness.md",
-    "Courses/Office SG/Office SG Contents.md",
-    "Daily Notes/06-02-2024.md",
-    "Novels/Atomic Habits.md",
-    "Daily Notes/07-02-2024.md",
-    "Courses/Office SG/My Learning/Protection of Personal Data.md",
-    "Courses/Office SG/My Learning/Prevention of Sexual Harassment.md",
-    "Courses/Office SG/My Learning/Fight Against Corruption.md",
-    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
-    "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java(2018).pdf",
-    "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java-CareerMonk.com (2018).pdf",
-    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
-    "Courses/Office SG/My Learning/CSR - History, Standards and Opportunities.md",
-    "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
-    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
-    "999 Books/Career/Algorithms/Narasimha Karumanchi - Data Structures and Algorithms Made Easy in Java-CareerMonk.com (2017).pdf",
-    "999 Books/Career/Algorithms",
-    "999 Books/Career/New folder",
-    "Daily Notes/05-02-2024.md",
-    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship-Prentice Hall (2008).pdf",
-    "Daily Notes/17-01-2024.md",
-    "999 Index/Novels.md",
-    "999 Books/Self Help",
-    "999 Books/Novels",
-    "999 Books/Career",
-    "Daily Notes/16-01-2024.md",
-    "Daily Notes/29-12-2023.md",
-    "999 Index/Tutorials.md",
-    "Daily Notes/01-12-2023.md",
-    "Daily Notes/08-11-2023.md",
-    "Daily Notes/07-11-2023.md",
-    "freeCodeCamp/freeCodeCamp.md",
+    "Courses/PluralSight/Solo Courses/From Collections to Streams using Lambda Expressions.md",
+    "Courses/PluralSight/PluralSight courses.md",
+    "Courses/PluralSight/Solo Courses",
+    "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
+    "Courses/PluralSight/Paths/PMI ACP Exam",
+    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
+    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner",
+    "Courses/PluralSight/Paths/Java Language Fundamentals",
+    "Courses/PluralSight/Paths",
+    "Courses/PluralSight/Blinc/Phase 2/Spring - The Big Picture.md",
+    "Courses/PluralSight/Blinc/Phase 2/Java Web Fundamentals.md",
+    "Courses/PluralSight/Blinc/Phase 2",
+    "Courses/PluralSight/Blinc/Phase 1/TDD - The Big Picture.md",
+    "Courses/PluralSight/Blinc/Phase 1/Shell Scripting.md",
+    "Courses/PluralSight/Blinc/Phase 1/Multi Threading.md",
+    "Courses/PluralSight/Blinc/Phase 1/JDBC Java Platform.md",
+    "Courses/PluralSight/Blinc/Phase 1/Git.md",
+    "Courses/PluralSight/Blinc/Phase 1/Generics.md",
+    "Courses/PluralSight/Blinc/Phase 1/Fundamentals of Java.md",
+    "Courses/PluralSight/Blinc/Phase 1",
+    "Courses/PluralSight/Blinc",
+    "blinc/phase1/fundamentalsOfJava.md",
+    "blinc/phase1",
+    "blinc",
+    "Courses/Nptel/Nptel courses.md",
+    "Courses/Nptel/System Analysis and Design/Information for management.md",
     "README.md",
-    "atomicHabits.md",
-    "999 Templates/Course Note Template.md",
-    "999 Templates/Novels Template.md"
+    "Courses/Office SG/Office SG Contents.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Advanced/Data Persistence in Cloud Platform/Cloud Native Architecture Patterns.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Security Group Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Object Storage Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/File Storage Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Cloud Platform Compute Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Cloud Orchestration Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Certificate Service.md",
+    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Block Storage Service.md"
   ]
 }
