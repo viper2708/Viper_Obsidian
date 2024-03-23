@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d686f0e646fa98",
+        "id": "73ac6d49b5eedda6",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe8c734227cff56",
+            "id": "348a49607de8f48d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/19-03-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/15-03-2024.md",
+                "file": "Daily Notes/19-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/15-03-2024.md",
+                "file": "Daily Notes/19-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/15-03-2024.md"
+                "file": "Daily Notes/19-03-2024.md"
               }
             }
           }
@@ -143,10 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87409e6bdc33e1ba",
+  "active": "348a49607de8f48d",
   "lastOpenFiles": [
-    "Courses/PluralSight/PluralSight courses.md",
+    "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path/Front End Developer Roadmap 2024.md",
+    "999 Books/Career/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
+    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
+    "Daily Notes/19-03-2024.md",
+    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
+    "Front End Developer Learning Path.md",
+    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
     "Daily Notes/15-03-2024.md",
+    "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path",
+    "Courses/FreeCodeCamp/YouTube/Training Paths",
+    "Courses/PluralSight/PluralSight courses.md",
     "Courses/PluralSight/Solo Courses/From Collections to Streams using Lambda Expressions.md",
     "Courses/PluralSight/Solo Courses",
     "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
@@ -165,21 +178,11 @@
     "Courses/PluralSight/Blinc/Phase 1/Git.md",
     "Courses/PluralSight/Blinc/Phase 1/Generics.md",
     "Courses/PluralSight/Blinc/Phase 1/Fundamentals of Java.md",
-    "Courses/PluralSight/Blinc/Phase 1",
-    "Courses/PluralSight/Blinc",
     "blinc/phase1/fundamentalsOfJava.md",
-    "blinc/phase1",
-    "blinc",
     "Courses/Nptel/Nptel courses.md",
     "Courses/Nptel/System Analysis and Design/Information for management.md",
     "README.md",
     "Courses/Office SG/Office SG Contents.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Advanced/Data Persistence in Cloud Platform/Cloud Native Architecture Patterns.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Security Group Service.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Object Storage Service.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/File Storage Service.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Cloud Platform Compute Service.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Cloud Orchestration Service.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Intermediate/Core Services Discovery/Certificate Service.md"
+    "Courses/Office SG/Cloud Platform Professional Services/Advanced/Data Persistence in Cloud Platform/Cloud Native Architecture Patterns.md"
   ]
 }
