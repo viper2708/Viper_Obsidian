@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "73ac6d49b5eedda6",
+        "id": "a00ac3bc240d5daf",
         "type": "tabs",
         "children": [
           {
-            "id": "348a49607de8f48d",
+            "id": "408da71e3a9d3919",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/19-03-2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/19-03-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/19-03-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/19-03-2024.md"
+                "file": "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md"
               }
             }
           }
@@ -147,30 +141,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "348a49607de8f48d",
+  "active": "87409e6bdc33e1ba",
   "lastOpenFiles": [
+    "Courses/PluralSight/PluralSight courses.md",
+    "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md",
+    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
+    "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
+    "Courses/PluralSight/Paths/Domain Driven Design/Beginner",
+    "Courses/PluralSight/Paths/Domain Driven Design",
+    "Daily Notes/23-03-2024.md",
+    "Daily Notes/19-03-2024.md",
     "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path/Front End Developer Roadmap 2024.md",
     "999 Books/Career/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
     "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
-    "Daily Notes/19-03-2024.md",
     "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "Front End Developer Learning Path.md",
     "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
     "Daily Notes/15-03-2024.md",
     "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path",
     "Courses/FreeCodeCamp/YouTube/Training Paths",
-    "Courses/PluralSight/PluralSight courses.md",
     "Courses/PluralSight/Solo Courses/From Collections to Streams using Lambda Expressions.md",
     "Courses/PluralSight/Solo Courses",
-    "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
     "Courses/PluralSight/Paths/PMI ACP Exam",
-    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
     "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner",
     "Courses/PluralSight/Paths/Java Language Fundamentals",
-    "Courses/PluralSight/Paths",
     "Courses/PluralSight/Blinc/Phase 2/Spring - The Big Picture.md",
     "Courses/PluralSight/Blinc/Phase 2/Java Web Fundamentals.md",
-    "Courses/PluralSight/Blinc/Phase 2",
     "Courses/PluralSight/Blinc/Phase 1/TDD - The Big Picture.md",
     "Courses/PluralSight/Blinc/Phase 1/Shell Scripting.md",
     "Courses/PluralSight/Blinc/Phase 1/Multi Threading.md",
@@ -182,7 +178,6 @@
     "Courses/Nptel/Nptel courses.md",
     "Courses/Nptel/System Analysis and Design/Information for management.md",
     "README.md",
-    "Courses/Office SG/Office SG Contents.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Advanced/Data Persistence in Cloud Platform/Cloud Native Architecture Patterns.md"
+    "Courses/Office SG/Office SG Contents.md"
   ]
 }
