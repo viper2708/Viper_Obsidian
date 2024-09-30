@@ -11,8 +11,10 @@
             "id": "408da71e3a9d3919",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf"
+              }
             }
           }
         ]
@@ -139,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87409e6bdc33e1ba",
+  "active": "408da71e3a9d3919",
   "lastOpenFiles": [
+    "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Volume 2.pdf",
+    "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
+    "999 Books/Career/System Design Books",
     "999 Books/Career/Software Architecture Standards",
     "Courses/PluralSight/PluralSight courses.md",
     "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md",
@@ -161,9 +170,6 @@
     "Courses/FreeCodeCamp/YouTube/Training Paths",
     "Courses/PluralSight/Solo Courses/From Collections to Streams using Lambda Expressions.md",
     "Courses/PluralSight/Solo Courses",
-    "Courses/PluralSight/Paths/PMI ACP Exam",
-    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner",
-    "Courses/PluralSight/Paths/Java Language Fundamentals",
     "Courses/PluralSight/Blinc/Phase 2/Spring - The Big Picture.md",
     "Courses/PluralSight/Blinc/Phase 2/Java Web Fundamentals.md",
     "Courses/PluralSight/Blinc/Phase 1/TDD - The Big Picture.md",
