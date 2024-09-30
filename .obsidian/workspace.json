@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -132,17 +130,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "87409e6bdc33e1ba",
   "lastOpenFiles": [
+    "999 Books/Career/Software Architecture Standards",
     "Courses/PluralSight/PluralSight courses.md",
     "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md",
     "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
@@ -152,8 +151,8 @@
     "Daily Notes/23-03-2024.md",
     "Daily Notes/19-03-2024.md",
     "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path/Front End Developer Roadmap 2024.md",
-    "999 Books/Career/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
-    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
+    "999 Books/Career/Software Architecture Standards/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
+    "999 Books/Career/Software Architecture Standards/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
     "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
     "Front End Developer Learning Path.md",
     "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
@@ -177,7 +176,6 @@
     "blinc/phase1/fundamentalsOfJava.md",
     "Courses/Nptel/Nptel courses.md",
     "Courses/Nptel/System Analysis and Design/Information for management.md",
-    "README.md",
-    "Courses/Office SG/Office SG Contents.md"
+    "README.md"
   ]
 }
