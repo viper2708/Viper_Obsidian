@@ -1,28 +1,24 @@
 {
   "main": {
-    "id": "9337642b6c34f11c",
+    "id": "6cbaae5f0767fa39",
     "type": "split",
     "children": [
       {
-        "id": "73ac6d49b5eedda6",
+        "id": "36982457e46bbc35",
         "type": "tabs",
         "children": [
           {
-            "id": "348a49607de8f48d",
+            "id": "f47366ad0075b2f2",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "pdf",
-              "state": {
-                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf"
-=======
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/19-03-2024.md",
+                "file": "Courses/Nptel/Data Structures and Algorithms/Lec 1 - Introduction to Data structures and Algorithms.md",
                 "mode": "source",
                 "source": false
->>>>>>> parent of ef8f321 (Removed courses)
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lec 1 - Introduction to Data structures and Algorithms"
             }
           }
         ]
@@ -31,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a6c7f67b231b0b73",
+    "id": "dcf2024ff4382be3",
     "type": "split",
     "children": [
       {
-        "id": "4dfa536b04fc71ad",
+        "id": "11c555981eb622b9",
         "type": "tabs",
         "children": [
           {
-            "id": "87409e6bdc33e1ba",
+            "id": "d428c42ad50406e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "d9dae302af301d1c",
+            "id": "ba83395291cfc70a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,42 +58,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "efba75c3640724eb",
+            "id": "d939c57e00b1f318",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "right": {
-    "id": "99687723b3c2d61e",
+    "id": "ede6d457028296df",
     "type": "split",
     "children": [
       {
-        "id": "6e5fbeab7cb933a1",
+        "id": "97c9615682dbada0",
         "type": "tabs",
         "children": [
           {
-            "id": "433950492cb06db3",
+            "id": "3d7ceee73eaa0055",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
-=======
-                "file": "Daily Notes/19-03-2024.md",
->>>>>>> parent of ef8f321 (Removed courses)
+                "file": "Courses/Nptel/Data Structures and Algorithms/Lec 1 - Introduction to Data structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,48 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lec 1 - Introduction to Data structures and Algorithms"
             }
           },
           {
-            "id": "8d8163aaef9498f1",
+            "id": "e8d847ac1f068f82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
-=======
-                "file": "Daily Notes/19-03-2024.md",
->>>>>>> parent of ef8f321 (Removed courses)
+                "file": "Courses/Nptel/Data Structures and Algorithms/Lec 1 - Introduction to Data structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lec 1 - Introduction to Data structures and Algorithms"
             }
           },
           {
-            "id": "4fc6474027353e25",
+            "id": "96346d1ea23bcd69",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "e0ef14dacccdfc96",
+            "id": "10f51b86230df7d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf"
-=======
-                "file": "Daily Notes/19-03-2024.md"
->>>>>>> parent of ef8f321 (Removed courses)
-              }
+                "file": "Courses/Nptel/Data Structures and Algorithms/Lec 1 - Introduction to Data structures and Algorithms.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lec 1 - Introduction to Data structures and Algorithms"
             }
           }
         ]
@@ -156,78 +154,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "408da71e3a9d3919",
+  "active": "f47366ad0075b2f2",
   "lastOpenFiles": [
-    "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Volume 2.pdf",
-    "999 Books/Career/System Design Books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu.pdf",
-    "999 Books/Career/System Design Books",
-    "999 Books/Career/Software Architecture Standards",
-    "Courses/PluralSight/PluralSight courses.md",
-    "Courses/PluralSight/Paths/Domain Driven Design/Beginner/Clean Architecture Patterns, Practices, and Principles.md",
-    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
-    "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
-    "Courses/PluralSight/Paths/Domain Driven Design/Beginner",
-    "Courses/PluralSight/Paths/Domain Driven Design",
-    "Daily Notes/23-03-2024.md",
-    "Daily Notes/19-03-2024.md",
-    "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path/Front End Developer Roadmap 2024.md",
-    "999 Books/Career/Software Architecture Standards/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
-    "999 Books/Career/Software Architecture Standards/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
-=======
-  "active": "348a49607de8f48d",
-  "lastOpenFiles": [
-    "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path/Front End Developer Roadmap 2024.md",
-    "999 Books/Career/Robert C. Martin - Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Prentice Hall (2017).pdf",
-    "999 Books/Career/Robert C. Martin - Clean Code_ A Handbook of Agile Software Craftsmanship(2008).pdf",
-    "Daily Notes/19-03-2024.md",
->>>>>>> parent of ef8f321 (Removed courses)
-    "Courses/FreeCodeCamp/YouTube/SQL Database Course.md",
-    "Front End Developer Learning Path.md",
-    "Courses/FreeCodeCamp/FreeCodeCamp contents.md",
-    "Daily Notes/15-03-2024.md",
-    "Courses/FreeCodeCamp/YouTube/Training Paths/Front End Developer training path",
-    "Courses/FreeCodeCamp/YouTube/Training Paths",
-    "Courses/PluralSight/PluralSight courses.md",
-    "Courses/PluralSight/Solo Courses/From Collections to Streams using Lambda Expressions.md",
-    "Courses/PluralSight/Solo Courses",
-<<<<<<< HEAD
-=======
-    "Courses/PluralSight/Paths/PMI ACP Exam/Introduction to Agile Project Mgt and the PMI-ACP Exam.md",
-    "Courses/PluralSight/Paths/PMI ACP Exam",
-    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner/Modern Java - The Big Picture.md",
-    "Courses/PluralSight/Paths/Java Language Fundamentals/Beginner",
-    "Courses/PluralSight/Paths/Java Language Fundamentals",
-    "Courses/PluralSight/Paths",
->>>>>>> parent of ef8f321 (Removed courses)
-    "Courses/PluralSight/Blinc/Phase 2/Spring - The Big Picture.md",
-    "Courses/PluralSight/Blinc/Phase 2/Java Web Fundamentals.md",
-    "Courses/PluralSight/Blinc/Phase 2",
-    "Courses/PluralSight/Blinc/Phase 1/TDD - The Big Picture.md",
-    "Courses/PluralSight/Blinc/Phase 1/Shell Scripting.md",
-    "Courses/PluralSight/Blinc/Phase 1/Multi Threading.md",
-    "Courses/PluralSight/Blinc/Phase 1/JDBC Java Platform.md",
-    "Courses/PluralSight/Blinc/Phase 1/Git.md",
-    "Courses/PluralSight/Blinc/Phase 1/Generics.md",
-    "Courses/PluralSight/Blinc/Phase 1/Fundamentals of Java.md",
-    "blinc/phase1/fundamentalsOfJava.md",
-    "Courses/Nptel/Nptel courses.md",
+    "999 Templates/Course Note Template.md",
+    "Daily Notes/01-12-2023.md",
+    "999 Templates/Daily Note Template.md",
+    "Courses/Nptel/Data Structures and Algorithms/Lec 1 - Introduction to Data structures and Algorithms.md",
     "Courses/Nptel/System Analysis and Design/Information for management.md",
-<<<<<<< HEAD
-    "README.md"
-=======
-    "README.md",
-    "Courses/Office SG/Office SG Contents.md",
-    "Courses/Office SG/Cloud Platform Professional Services/Advanced/Data Persistence in Cloud Platform/Cloud Native Architecture Patterns.md"
->>>>>>> parent of ef8f321 (Removed courses)
+    "Courses/Office SG/My Learning/Basics of Permanent Level 1 Control.md",
+    "Courses/Nptel/Nptel courses.md",
+    "Courses/Nptel/Data Structures and Algorithms",
+    "Daily Notes/10-11-2024.md"
   ]
 }
