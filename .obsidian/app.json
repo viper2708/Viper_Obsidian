@@ -1,6 +1,5 @@
 {
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true,
-  "showLineNumber": true
+  "livePreview": true
 }
